@@ -1,5 +1,5 @@
 {
-    "name": "php-vcr/php-vcr",
+    "name": "stephenm/php-vcr",
     "description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.",
     "license": "MIT",
 
@@ -7,7 +7,11 @@
         {
             "name": "Adrian Philipp",
             "email": "mail@adrian-philipp.com"
-        }
+        },
+        {
+            "name": "Steve Miketa",
+            "email": "stephenm@vimeo.com"
+        }, 
     ],
 
     "require": {
