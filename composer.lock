@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "234a42c313e1a9b62971d83cd6c05d25",
+    "hash": "ecc2f9d95d8b4c5e3f34b8f833cf9c77",
     "packages": [
         {
             "name": "beberlei/assert",
@@ -168,12 +168,12 @@
             "target-dir": "Guzzle/Common",
             "source": {
                 "type": "git",
-                "url": "https://github.com/guzzle/common.git",
+                "url": "https://github.com/Guzzle3/common.git",
                 "reference": "ada14a205bf73d8b34e6af8bbe6c07d4edb3674e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/common/zipball/ada14a205bf73d8b34e6af8bbe6c07d4edb3674e",
+                "url": "https://api.github.com/repos/Guzzle3/common/zipball/ada14a205bf73d8b34e6af8bbe6c07d4edb3674e",
                 "reference": "ada14a205bf73d8b34e6af8bbe6c07d4edb3674e",
                 "shasum": ""
             },
@@ -212,12 +212,12 @@
             "target-dir": "Guzzle/Http",
             "source": {
                 "type": "git",
-                "url": "https://github.com/guzzle/http.git",
+                "url": "https://github.com/Guzzle3/http.git",
                 "reference": "9780379f23c99241bbe185c516d392d9d5d31e1a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/http/zipball/9780379f23c99241bbe185c516d392d9d5d31e1a",
+                "url": "https://api.github.com/repos/Guzzle3/http/zipball/9780379f23c99241bbe185c516d392d9d5d31e1a",
                 "reference": "9780379f23c99241bbe185c516d392d9d5d31e1a",
                 "shasum": ""
             },
@@ -269,12 +269,12 @@
             "target-dir": "Guzzle/Parser",
             "source": {
                 "type": "git",
-                "url": "https://github.com/guzzle/parser.git",
+                "url": "https://github.com/Guzzle3/parser.git",
                 "reference": "6874d171318a8e93eb6d224cf85e4678490b625c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/parser/zipball/6874d171318a8e93eb6d224cf85e4678490b625c",
+                "url": "https://api.github.com/repos/Guzzle3/parser/zipball/6874d171318a8e93eb6d224cf85e4678490b625c",
                 "reference": "6874d171318a8e93eb6d224cf85e4678490b625c",
                 "shasum": ""
             },
@@ -313,12 +313,12 @@
             "target-dir": "Guzzle/Stream",
             "source": {
                 "type": "git",
-                "url": "https://github.com/guzzle/stream.git",
+                "url": "https://github.com/Guzzle3/stream.git",
                 "reference": "fa8af730ca714861c0001cfba64aaecc5f21bb96"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/stream/zipball/fa8af730ca714861c0001cfba64aaecc5f21bb96",
+                "url": "https://api.github.com/repos/Guzzle3/stream/zipball/fa8af730ca714861c0001cfba64aaecc5f21bb96",
                 "reference": "fa8af730ca714861c0001cfba64aaecc5f21bb96",
                 "shasum": ""
             },
@@ -370,7 +370,7 @@
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lapistano/proxy-object/zipball/bf26e21c32bd938f75c4ad43e10b65c1925f76a0",
+                "url": "https://api.github.com/repos/lapistano/proxy-object/zipball/d7184a479f502d5a0f96d0bae73566dbb498da8f",
                 "reference": "bf26e21c32bd938f75c4ad43e10b65c1925f76a0",
                 "shasum": ""
             },
