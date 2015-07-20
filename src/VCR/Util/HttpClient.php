@@ -24,6 +24,9 @@ class HttpClient
         if (!is_null($request->getBody())) {
             curl_setopt($ch, CURLOPT_POSTFIELDS, $request->getBody());
         }
+        else if (!is_null($request->getPostFields())) {
+            curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($request->getPostFields()));
+        }
 
         curl_setopt_array($ch, $request->getCurlOptions());
 
